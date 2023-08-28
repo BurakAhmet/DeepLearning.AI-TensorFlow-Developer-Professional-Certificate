@@ -21,4 +21,6 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
   - ---
 
   - ### [Convolutional Neural Networks in TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
+      * [Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Exploring%20a%20Larger%20Dataset): Exploring a Larger Dataset
+      * [Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/2.%20Augmentation%20A%20technique%20to%20avoid%20overfitting): Augmentation A technique to avoid overfitting
   - ---
