@@ -12,7 +12,7 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
     * [Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/2.%20Introduction%20to%20Computer%20Vision): Introduction to Computer Vision
     * [Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/3.%20Enhancing%20Vision%20with%20Convolutional%20Neural%20Networks): Enhancing Vision with Convolutional Neural Networks
     * [Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/4.%20Using%20Real-world%20Images): Using Real-world Images
-    <br>
+      
     <details>
       <summary>Show Certificate</summary>
         <a href="https://www.coursera.org/account/accomplishments/verify/NMM6RLNB3EES">
