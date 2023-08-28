@@ -15,5 +15,5 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
     </details>
   - ---
 
-  - ### [Convolutional Neural Networks in TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-ProfessionalCertificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
+  - ### [Convolutional Neural Networks in TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
   - ---
