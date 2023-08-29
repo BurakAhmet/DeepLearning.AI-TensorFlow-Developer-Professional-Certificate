@@ -1,5 +1,5 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
-My quiz answers and assignment answers for DeepLearning.AI TensorFlow Developer Professional Certificate course assignments.
+My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professional Certificate course assignments.
 
 For more you can check [course info](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/).
 
