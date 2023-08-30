@@ -15,9 +15,7 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
       
     <details>
       <summary>Show Certificate</summary>
-        <a href="https://www.coursera.org/account/accomplishments/verify/NMM6RLNB3EES">
-           <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/33923219-2e7b-4dad-9eac-408959834ef7" alt="TensorFlow C1 Certificate-1">
-        </a>
+           <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/33923219-2e7b-4dad-9eac-408959834ef7" alt="TensorFlow C1 Certificate">
     </details>
   - ---
 
@@ -29,4 +27,10 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
       * [Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/3.%20Transfer%20Learning): Transfer Learning
    
       * [Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Multiclass%20Classifications): Multiclass Classifications
+   
+    <details>
+      <summary>Show Certificate</summary>
+           <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/f3014cac-987a-482d-a782-8ebe3854d290" alt="TensorFlow C2 Certificate">
+    </details>
   - ---
+
