@@ -38,5 +38,7 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
     * [Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Sentiment%20in%20text): Sentiment in text
    
     * [Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Word%20Embeddings): Word Embeddings
+   
+    * [Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Sequence%20models): Sequence models
   - ---
 
