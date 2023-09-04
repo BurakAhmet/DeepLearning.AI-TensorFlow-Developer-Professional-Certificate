@@ -40,5 +40,7 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
     * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Word%20Embeddings)</b>: Word Embeddings
    
     * <b>[Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Sequence%20models)</b>: Sequence models
+   
+    * <b>[Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/4.%20Sequence%20models%20and%20literature)</b>: Sequence models and literature
   - ---
 
