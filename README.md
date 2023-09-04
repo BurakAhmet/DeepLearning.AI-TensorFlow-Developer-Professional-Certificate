@@ -7,11 +7,11 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
 
 ## Contents
   - ### [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
-    * [Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/1.%20A%20New%20Programming%20Paradigm): A New Programming Paradigm
+    * <b>[Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/1.%20A%20New%20Programming%20Paradigm)</b>: A New Programming Paradigm
       
-    * [Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/2.%20Introduction%20to%20Computer%20Vision): Introduction to Computer Vision
-    * [Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/3.%20Enhancing%20Vision%20with%20Convolutional%20Neural%20Networks): Enhancing Vision with Convolutional Neural Networks
-    * [Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/4.%20Using%20Real-world%20Images): Using Real-world Images
+    * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/2.%20Introduction%20to%20Computer%20Vision)</b>: Introduction to Computer Vision
+    * <b>[Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/3.%20Enhancing%20Vision%20with%20Convolutional%20Neural%20Networks)</b>: Enhancing Vision with Convolutional Neural Networks
+    * <b>[Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/4.%20Using%20Real-world%20Images)</b>: Using Real-world Images
       
     <details>
       <summary>Show Certificate</summary>
@@ -20,13 +20,13 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
   - ---
 
   - ### [Convolutional Neural Networks in TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
-      * [Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Exploring%20a%20Larger%20Dataset): Exploring a Larger Dataset
+      * <b>[Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/1.%20Exploring%20a%20Larger%20Dataset)</b>: Exploring a Larger Dataset
         
-      * [Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/2.%20Augmentation%20A%20technique%20to%20avoid%20overfitting): Augmentation A technique to avoid overfitting
+      * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/2.%20Augmentation%20A%20technique%20to%20avoid%20overfitting)</b>: Augmentation A technique to avoid overfitting
    
-      * [Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/3.%20Transfer%20Learning): Transfer Learning
+      * <b>[Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/3.%20Transfer%20Learning)</b>: Transfer Learning
    
-      * [Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Multiclass%20Classifications): Multiclass Classifications
+      * <b>[Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/4.%20Multiclass%20Classifications)</b>: Multiclass Classifications
    
     <details>
       <summary>Show Certificate</summary>
@@ -35,10 +35,10 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
   - ---
 
   - ### [Natural Language Processing in TensorFlow](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow)
-    * [Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Sentiment%20in%20text): Sentiment in text
+    * <b>[Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/1.%20Sentiment%20in%20text)</b>: Sentiment in text
    
-    * [Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Word%20Embeddings): Word Embeddings
+    * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/2.%20Word%20Embeddings)</b>: Word Embeddings
    
-    * [Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Sequence%20models): Sequence models
+    * <b>[Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/3.%20Natural%20Language%20Processing%20in%20TensorFlow/3.%20Sequence%20models)</b>: Sequence models
   - ---
 
