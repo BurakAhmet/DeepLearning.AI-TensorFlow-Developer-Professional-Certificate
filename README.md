@@ -51,6 +51,8 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
 
   - ### [Sequences, Time Series and Prediction](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction)
       * <b>[Week 1](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/1.%20Sequences%20and%20Prediction)</b>: Sequences and Prediction
+   
+      * <b>[Week 2](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/2.%20Deep%20Neural%20Networks%20for%20Time%20Series)</b>: Deep Neural Networks for Time Series
 
   - ---
 
