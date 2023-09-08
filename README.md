@@ -57,6 +57,9 @@ Check <i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-
       * <b>[Week 3](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/3.%20Recurrent%20Neural%20Networks%20for%20Time%20Series)</b>: Recurrent Neural Networks for Time Series
    
       * <b>[Week 4](https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/main/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/4.%20Real-world%20time%20series%20data)</b>: Real-world time series data
-
+    <details>
+      <summary>Show Certificate</summary>
+            <img src="https://github.com/BurakAhmet/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/assets/89780902/91cd94de-086a-46b9-8d37-067698b8b95a" alt="TensorFlow C4 Certificate">
+    </details>
   - ---
 
