@@ -1,5 +1,5 @@
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
-My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professional Certificate course.
+My quiz and assignment answers for DeepLearning.AI TensorFlow Developer Professional Certificate course
 
 Check **<i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)</i>** before you take a look at the assignments.
 
